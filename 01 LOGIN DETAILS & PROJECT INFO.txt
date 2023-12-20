@@ -1,6 +1,6 @@
 **Database Name: librarygh**
 
-**Developed by Adnan Ansari**
+**Developed by Vinay Gupta**
 
 **Recommended PHP Version 5.6.3**
 
